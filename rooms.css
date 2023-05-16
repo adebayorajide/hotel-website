@@ -450,6 +450,19 @@ body {
     margin: 0 20px;
   }
 
+  
+  .room-image figure img {
+    max-width: 350px;
+   }
+
+   .room-image figure figcaption {
+    width: 350px;
+   }
+
+   .room-btn {
+    padding: 20px 0;
+   }
+
   .footer {
     padding: 0 20px;
     bottom: 0;
@@ -462,10 +475,6 @@ body {
   .hero-para1 {
     margin-left: -20px;
   }
-
-.room-image {
-  margin: 0 20px;
-}
 }
 
 
