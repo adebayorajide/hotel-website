@@ -19,7 +19,7 @@ body {
  /* styling starts here */
 .header-section {
     background-color: linear-gradient(rgba(0, 0, 0, 0.4) rgba(0, 0, 0, 0.8)); 
-    background-image: url("./HOTEL/assets/Mask\ Group.png"); 
+    background-image: url("./Mask\ Group.png"); 
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat; 
