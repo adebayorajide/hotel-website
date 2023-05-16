@@ -475,6 +475,10 @@ body {
   .hero-para1 {
     margin-left: -20px;
   }
+
+  .footer-content {
+    font-size: 3px;
+  }
 }
 
 

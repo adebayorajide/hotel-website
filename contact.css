@@ -370,6 +370,10 @@ body {
     padding: 0 20px;
     bottom: 0;
   }
+
+  .footer-content {
+    font-size: 3px;
+  }
     
     .input input {
       width: 100px;
