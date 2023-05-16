@@ -18,22 +18,22 @@ body {
 }
 
 /* header styling starts here */
- .header-section {
-   background-color: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5));
-    background-image: url("./Mask\ Group\ \(2\).png");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat; 
-    filter: contrast(0.7);
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
-    height: auto;
-    min-width: 100vw;
-    justify-content: center;
-    color: white;
-    margin-top: 0;
-    margin-bottom: 15px;
+.header-section {
+  background-color: linear-gradient(rgba(0, 0, 0, 0.527), rgba(0, 0, 0, 0.5));
+   background-image: url("./Mask\ Group\ \(2\).png");
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat; 
+   filter: contrast(0.8);
+   display: flex;
+   flex-wrap: wrap;
+   flex-direction: column;
+   height: auto;
+   width: 100%;
+   justify-content: center;
+   color: white;
+   margin-top: 0;
+   margin-bottom: 15px;
  }
 
  /* styling the nav */
@@ -450,10 +450,10 @@ body {
     margin: 0 20px;
   }
 
-  .footer{
+  .footer {
     padding: 0 20px;
-    text-align: center;
-  }  
+    bottom: 0;
+  }
 
   .input input {
     width: 100px;
